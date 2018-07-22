@@ -1,0 +1,1 @@
+KreditniKalkulator - JavaFX
